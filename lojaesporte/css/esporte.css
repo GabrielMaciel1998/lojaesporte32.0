@@ -1,0 +1,245 @@
+body{
+	background-image:url(img/logica.png);
+	width:1000px;
+	margin:auto;
+}
+#caixapai{
+	margin-left:300px;
+	width:500px;
+	height:50px;
+	margin-top:50px;
+}
+#filho1{
+	margin-right:400px;
+	color:red;	
+}
+#topo{
+	background-image:url(img/baner.png);
+	
+}
+#filho2{
+	margin-left:100px;
+}
+#caixapai2{
+	border:solid;
+	width:1000px;
+	height:50px;
+	display:flex;
+	margin-right:100px;
+	margin-top:15px;
+}
+.primeiro{
+	margin-left:65px;
+	margin-top:10px;
+}
+#caixapai3{
+	align-items:center;
+	margin-left:230px;
+	
+}
+#busca{
+	margin:auto;
+	margin-top:25px;
+	margin-left:200px;
+}
+#filho10{
+	width:500px;
+	height:400px;
+	justify-content:center;
+	margin-top:20px;
+}	
+#todoSite {
+	width:1000px;
+	margin:auto;
+	background-color:silver;
+}
+
+#caixaPai{
+	display:flex;
+	width:1000px;
+	justify-content: space-between;
+	margin-top:20px;
+	
+}
+
+#caixa1 {
+	width:100px;
+	height:290px;
+	display:flex;
+}
+
+.caixas{
+	margin-left:50px;
+	margin-top:20px;
+        display:flex;
+}
+#caixa2 {
+	width:180px;
+	height:100px;
+}
+
+#caixa3 {
+	width:180px;
+	height:100px;
+}
+
+#caixa4 {
+	width:180px;
+	height:100px;
+}
+#caixaPaiCabecalho {
+	display:flex;
+}
+#pesquisa {
+	width:600px;
+	height:100px;
+	margin-top:100px;
+}
+#logo {
+	width:300px;
+	height:200px;
+	
+}
+#style{
+	margin-bottom:35px;
+}
+#carrinho {
+	width:200px;
+	height:100px;
+	margin-top:100px;
+}
+#carro{
+	width:65px;
+	margin:auto;
+	margin-left:65px;
+}
+#wilson{
+	width:200px;
+        display: flex;
+}
+#luva{
+	width:200px;
+	margin-right:15px;
+}
+#mesa{
+	width:200px;
+	
+}
+#bola{
+	width:200px;
+}
+#caixapai4{
+	width:1000px;
+	height:300px;
+	display:flex;
+	margin-bottom:20px;
+	
+}
+.box{
+	margin-left:35px;
+	margin-top:18px;
+}
+#box5{
+	width:500px;
+	height:200px;
+}
+#box6{
+	width:500px;
+	height:200px;
+}
+#box7{
+	width:500px;
+	height:200px;
+}
+#box8{
+	width:500px;
+	height:200px;
+}
+#bola1{
+	width:200px;
+}
+#multi{
+	width:200px;
+}
+#adidas{
+	width:200px;
+}
+#fut{
+	width:200px;
+}
+#pro{
+	margin:auto;
+	text-decoration:underline;
+}
+#bas{
+	width:200px;
+	margin-top:15px;
+	margin-left:10px;
+}
+#box9{
+	width:300px;
+	height:200px;	
+}
+#box10{
+	width:500px;
+	height:300px;
+	
+}
+#copa{
+	
+	width:250px;
+	height:200px;
+}
+#mundo{
+	width:200px;
+	margin-top:15px;
+}
+#boxgeral{
+	display:flex;
+}
+#rodape{
+	height:400px;
+	width:1020px;
+	margin-left:10px;
+	margin-top:200px;
+	display:flex;
+	border-top:1px solid #333;
+}
+#meiobaixo{
+	width:300px;
+	height:200px;
+	margin-top:50px;
+	margin-left:20px;
+}
+#baixo{
+	width:300px;
+	height:200px;
+	margin-top:50px;
+	margin-left:100px;
+	
+}
+#ro{
+	width:300px;
+
+}
+#peso{
+	width:300px;
+	height:400px;
+	margin:40px;
+}
+#facetw{
+	margin-top:50px;
+	margin-left:20px;
+}
+
+#container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.item {
+   
+    height: 300px;
+    width: 300px;
+}

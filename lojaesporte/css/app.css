@@ -1,0 +1,116 @@
+/*começo do css do site */ 
+body {
+    font-family: arial;    
+    width: 80%;
+    margin: auto;
+}
+
+#menu {
+    list-style-type: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    justify-content: space-between;
+    border-color: greenyellow;
+    border: solid;
+    border: groove;
+    border-width: 50px;
+}
+
+#menu li {
+    background-color: green;
+    padding: 10px;
+    width: 150px;
+    text-align: center;
+    
+}
+
+#menu li a {  
+    color: white;
+    font-size: 12px;
+}
+#busca{
+    margin-top: 50px;
+    text-align: center;
+    border: solid;
+    border-bottom-color: blue;
+}
+
+#inicial{
+    text-align: center;
+    color: black;
+    size: 50px;
+}
+#pro{
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+#somos{
+   
+}
+#container {
+    display: flex;
+    flex-wrap: wrap;
+}
+.item {
+   
+    height: 500px;
+    width: 300px;
+}
+#wilson{
+	width:200px;
+        display: flex;
+}
+#carregou{
+    background-color: blue;
+    width: 300px;
+    height: 100px;
+}
+/*AQUI COMEÇA O CSS DO CARRINHO*/
+body{
+    background-image: url("../img/logica.png");
+    background-size: 860px;
+}
+#carrinho{
+    text-align: center;
+}
+/*fim do css do carrinho*/
+
+/* inicio do rodape*/
+#rodape{
+	height:400px;
+	width:1020px;
+	margin-left:10px;
+	margin-top:200px;
+	display:flex;
+	border-top:1px solid #333;
+}
+#meiobaixo{
+	width:300px;
+	height:200px;
+	margin-top:50px;
+	margin-left:20px;
+}
+#baixo{
+	width:300px;
+	height:200px;
+	margin-top:50px;
+	margin-left:100px;
+	
+}
+#ro{
+	width:300px;
+
+}
+#peso{
+	width:300px;
+	height:400px;
+	margin:40px;
+}
+#facetw{
+	margin-top:50px;
+	margin-left:20px;
+}
+/*fim do rodape*/
+
+
